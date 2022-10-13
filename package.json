@@ -1,0 +1,20 @@
+{
+  "name": "twcss-portfolio--bdc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./styles.css -o ./tailwind.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavpatilviv23/TWCSS-Portfolio--BDC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavpatilviv23/TWCSS-Portfolio--BDC/issues"
+  },
+  "homepage": "https://github.com/vaibhavpatilviv23/TWCSS-Portfolio--BDC#readme"
+}
